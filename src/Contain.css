@@ -1,0 +1,16 @@
+.contain {
+  height: 100%;
+  width: 100%;
+}
+.contain1 {
+  height: 50vh;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.contain2 {
+  height: 48vh;
+  width: 100%;
+
+  /* background-color: rgb(25, 27, 27); */
+}

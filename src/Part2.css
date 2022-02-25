@@ -1,0 +1,91 @@
+.part2sub {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.part2min1 {
+  width: 70%;
+  height: 100%;
+}
+.part2min2 {
+  width: 30%;
+  height: 100%;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  margin-top: 15px;
+}
+.part2li {
+  width: 85%;
+  padding: 20px;
+}
+.part2item:nth-child(1) {
+  margin-right: 25px;
+}
+.navp31 {
+  float: left;
+  display: flex;
+  list-style-type: none;
+}
+.navp32 {
+  float: right;
+  list-style-type: none;
+}
+.villacard {
+  /* display: flex;
+  flex-direction: column; */
+  margin-top: 20px;
+  padding: 20px;
+}
+.villa:nth-child(1) {
+  height: 100px;
+  width: 85%;
+
+  margin-bottom: 30px;
+}
+.villa:nth-child(2) {
+  height: 100px;
+  width: 85%;
+  padding-left: 20px;
+}
+.part2item:nth-child(1) {
+  background: #caf0f8;
+  padding: 5px 10px;
+  border-radius: 30px;
+}
+.seacrh {
+  margin-right: 35px;
+}
+.part2item {
+  padding: 5px 10px;
+}
+.villap {
+  height: 60px;
+  width: 60px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.villain {
+  display: flex;
+
+  align-items: center;
+}
+.villapa {
+  margin: 0 60px 0 25px;
+  letter-spacing: 1px;
+}
+.arrow {
+  position: absolute;
+  margin-top: -5px;
+  margin-left: -28px;
+  color: #caf0f8;
+}
+.villa:nth-child(1) {
+  padding-left: 20px;
+  background-color: #323232;
+  display: flex;
+  align-items: center;
+  align-items: center;
+  color: white;
+  border-radius: 30px;
+}
