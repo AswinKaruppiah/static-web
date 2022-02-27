@@ -20,7 +20,7 @@ const state = {
       label: "Summer",
       backgroundColor: "rgba(75,192,192,1)",
 
-      borderWidth: 2,
+      borderWidth: 4,
       fill: false,
       borderColor: "rgba(75,192,192,1)",
       pointBackgroundColor: "white",
@@ -30,7 +30,7 @@ const state = {
     {
       label: "Holidays",
 
-      borderWidth: 2,
+      borderWidth: 4,
       fill: false,
       //   boderJoinstyle: "round",
       borderColor: "#D1D1D1",
@@ -41,7 +41,7 @@ const state = {
     {
       label: "WeekEnd",
 
-      borderWidth: 2,
+      borderWidth: 4,
       fill: false,
       //   boderJoinstyle: "round",
       borderColor: "#0F0E0E",
